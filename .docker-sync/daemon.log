@@ -1,0 +1,1166 @@
+          ok  Starting unison for sync sync_folder_laravel_admin_tools
+          ok  sync_folder_laravel_admin_tools container still running, restarting unison in container
+          ok  Synced /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/
+     success  Unison server started
+          ok  Synced /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/
+Unison 2.51.2 (ocaml 4.08.1): Contacting server...
+Connected [//e8f376b6c824//app_sync -> //thanatosdeMacBook-Pro.local//Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:06.84 on 09 Sep 2020
+[BGN] Copying storage/framework/sessions/HxecwP6nRxpIvacRMZMEY13FMtxmwB0LEr6nOX7s from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[BGN] Copying storage/framework/views/b18d705f49d4cb87cb2bde363b3ca5bd2bbb5823.php from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Copying storage/framework/sessions/HxecwP6nRxpIvacRMZMEY13FMtxmwB0LEr6nOX7s
+[END] Copying storage/framework/views/b18d705f49d4cb87cb2bde363b3ca5bd2bbb5823.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:06.86 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:17:06  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:18:27.49 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:18:27.50 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:18:27  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:18:39.26 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:18:39.27 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:18:39  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:14.22 on 09 Sep 2020
+[BGN] Updating file .env from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:14.23 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:19:14  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:18.04 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:18.05 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:19:18  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:22:13.95 on 09 Sep 2020
+[BGN] Updating file composer.json from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:22:13.96 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:22:13  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:23:15.41 on 09 Sep 2020
+[BGN] Updating file composer.json from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:23:15.42 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:23:15  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:23:43.56 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:23:43.57 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:23:43  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:43.52 on 09 Sep 2020
+[BGN] Updating file vendor/composer/installed.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/doctrine/annotations from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/league/fractal from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file vendor/composer/installed.json
+[END] Copying vendor/league/fractal
+[END] Copying vendor/doctrine/annotations
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:43.58 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:24:43  (3 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:45.30 on 09 Sep 2020
+[BGN] Copying app/Helper from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/dingo from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/Helper
+[END] Copying vendor/dingo
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:45.41 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:24:45  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:47.47 on 09 Sep 2020
+[BGN] Updating file composer.lock from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.lock
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:47.48 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:24:47  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:50.53 on 09 Sep 2020
+[BGN] Updating file bootstrap/cache/packages.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file bootstrap/cache/services.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_classmap.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_files.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_psr4.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_static.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file bootstrap/cache/packages.php
+[END] Updating file bootstrap/cache/services.php
+[END] Updating file vendor/composer/autoload_classmap.php
+[END] Updating file vendor/composer/autoload_files.php
+[END] Updating file vendor/composer/autoload_psr4.php
+[END] Updating file vendor/composer/autoload_static.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:50.57 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:24:50  (6 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:52.66 on 09 Sep 2020
+[BGN] Updating file .phpstorm.meta.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file _ide_helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .phpstorm.meta.php
+[END] Updating file _ide_helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:52.68 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:24:52  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:25:05.13 on 09 Sep 2020
+[BGN] Copying app/Helper/helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/Helper/helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:25:05.14 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:25:05  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:25:14.38 on 09 Sep 2020
+[BGN] Updating file app/Helper/helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file app/Helper/helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:25:14.39 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:25:14  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:25:38.62 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:25:38.62 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:25:38  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:25:44.14 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:25:44.16 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:25:44  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:25:54.48 on 09 Sep 2020
+[BGN] Copying config/api.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+Shortcut: copied /app_sync/config/api.php from local file /app_sync/vendor/dingo/api/config/api.php
+[END] Copying config/api.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:25:54.49 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:25:54  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:26:17.22 on 09 Sep 2020
+[BGN] Deleting app/User.php from //e8f376b6c824//app_sync
+[END] Deleting app/User.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:26:17.22 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:26:17  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:26:28.61 on 09 Sep 2020
+[BGN] Copying app/Models from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/Models
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:26:28.61 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:26:28  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:26:37.38 on 09 Sep 2020
+[BGN] Copying app/Service from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/Service
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:26:37.39 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:26:37  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:26:51.64 on 09 Sep 2020
+[BGN] Copying app/System from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/System
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:26:51.65 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:26:51  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:27:04.42 on 09 Sep 2020
+[BGN] Copying app/Transformer from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying app/Transformer
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:27:04.42 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:27:04  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:27:45.00 on 09 Sep 2020
+[BGN] Updating file .env from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file .env.example from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env
+[END] Updating file .env.example
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:27:45.01 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:27:45  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:28:00.61 on 09 Sep 2020
+[BGN] Updating file .env.example from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env.example
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:28:00.62 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:28:00  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:28:35.97 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:28:35.98 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:28:36  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:28:51.34 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:28:51.35 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:28:51  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:29:59.99 on 09 Sep 2020
+[BGN] Updating file .env from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:30:00.00 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:30:00  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:30:02.05 on 09 Sep 2020
+[BGN] Updating file storage/logs/laravel.log from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+[END] Updating file storage/logs/laravel.log
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:30:02.06 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:30:02  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:30:29.75 on 09 Sep 2020
+[BGN] Updating file .env from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:30:29.76 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:30:29  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:30:33.49 on 09 Sep 2020
+[BGN] Copying app/Admin from //e8f376b6c824//app_sync to /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools
+Shortcut: copied /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/app/Admin/bootstrap.php from local file /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/vendor/dcat/laravel-admin/src/Console/stubs/bootstrap.stub
+Shortcut: copied /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/app/Admin/routes.php from local file /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools/vendor/dcat/laravel-admin/src/Console/stubs/routes.stub
+[END] Copying app/Admin
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:30:33.51 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:30:33  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:19.93 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:19.93 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:19  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:20.97 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:20.97 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:21  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:26.01 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:26.01 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:26  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:36.01 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:36.02 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:36  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:40.17 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:40.17 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:40  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:31:56.98 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:31:56.98 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:31:57  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:32:28.88 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:32:28.89 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:32:28  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:32:37.98 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:32:37.98 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:32:38  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:32:50.86 on 09 Sep 2020
+[BGN] Updating file vendor/composer/installed.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/namshi from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/polyfill-php56 from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/polyfill-util from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+Shortcut: copied /app_sync/vendor/symfony/polyfill-php56/LICENSE from local file /app_sync/vendor/symfony/polyfill-php72/LICENSE
+Shortcut: copied /app_sync/vendor/symfony/polyfill-util/LICENSE from local file /app_sync/vendor/symfony/.unison.polyfill-php56.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/LICENSE
+[END] Updating file vendor/composer/installed.json
+[END] Copying vendor/symfony/polyfill-php56
+[END] Copying vendor/symfony/polyfill-util
+[END] Copying vendor/namshi
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:32:50.94 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:32:50  (4 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:32:53.81 on 09 Sep 2020
+[BGN] Updating file composer.lock from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/lcobucci from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/tymon from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.lock
+[END] Copying vendor/tymon
+[END] Copying vendor/lcobucci
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:32:54.01 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:32:54  (3 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:32:55.10 on 09 Sep 2020
+[BGN] Updating file vendor/composer/autoload_classmap.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_files.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_psr4.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_static.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file vendor/composer/autoload_classmap.php
+[END] Updating file vendor/composer/autoload_files.php
+[END] Updating file vendor/composer/autoload_psr4.php
+[END] Updating file vendor/composer/autoload_static.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:32:55.15 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:32:55  (4 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:33:16.72 on 09 Sep 2020
+[BGN] Updating file app/Helper/helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file app/Helper/helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:33:16.73 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:33:16  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:33:34.12 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:33:34.12 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:33:34  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:33:58.89 on 09 Sep 2020
+[BGN] Copying vendor/composer/50405b21 from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/installed.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/easywechat-composer from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/overtrue from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/psr/cache from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/cache from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/cache-contracts from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/psr-http-message-bridge from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/var-exporter from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+Shortcut: copied /app_sync/vendor/symfony/cache-contracts/.gitignore from local file /app_sync/vendor/symfony/translation-contracts/.gitignore
+Shortcut: copied /app_sync/vendor/symfony/cache-contracts/CHANGELOG.md from local file /app_sync/vendor/symfony/translation-contracts/CHANGELOG.md
+Shortcut: copied /app_sync/vendor/symfony/cache-contracts/LICENSE from local file /app_sync/vendor/symfony/translation-contracts/LICENSE
+Shortcut: copied /app_sync/vendor/symfony/var-exporter/LICENSE from local file /app_sync/vendor/symfony/.unison.cache-contracts.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/LICENSE
+[END] Copying vendor/composer/50405b21
+[END] Updating file vendor/composer/installed.json
+[END] Copying vendor/symfony/cache-contracts
+[END] Copying vendor/psr/cache
+[END] Copying vendor/symfony/cache
+[END] Copying vendor/symfony/var-exporter
+[END] Copying vendor/symfony/psr-http-message-bridge
+[END] Copying vendor/easywechat-composer
+[END] Copying vendor/overtrue
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:33:59.18 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:33:59  (9 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:00.71 on 09 Sep 2020
+[BGN] Copying vendor/pimple from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying vendor/pimple
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+[BGN] Deleting vendor/composer/50405b21 from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+[END] Deleting vendor/composer/50405b21
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:34:00.75 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:34:00  (2 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:01.79 on 09 Sep 2020
+[BGN] Updating file composer.lock from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.lock
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:34:01.81 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:34:01  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:04.87 on 09 Sep 2020
+[BGN] Updating file bootstrap/cache/packages.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file bootstrap/cache/services.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_classmap.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_files.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_namespaces.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_psr4.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_static.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/easywechat-composer/easywechat-composer/extensions.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file bootstrap/cache/packages.php
+[END] Updating file bootstrap/cache/services.php
+[END] Updating file vendor/composer/autoload_classmap.php
+[END] Updating file vendor/composer/autoload_files.php
+[END] Updating file vendor/composer/autoload_namespaces.php
+[END] Updating file vendor/composer/autoload_psr4.php
+[END] Updating file vendor/composer/autoload_static.php
+[END] Copying vendor/easywechat-composer/easywechat-composer/extensions.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:34:04.91 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:34:04  (8 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:07.97 on 09 Sep 2020
+[BGN] Updating file .phpstorm.meta.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file _ide_helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .phpstorm.meta.php
+[END] Updating file _ide_helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:34:07.99 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:34:08  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:31.29 on 09 Sep 2020
+[BGN] Updating file composer.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.json
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:34:31.30 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:34:31  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:34:59.44 on 09 Sep 2020
+[BGN] Copying vendor/bin/openapi from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/bin/yaml-lint from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/installed.json from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/swagger-api from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/symfony/yaml from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Copying vendor/bin/openapi
+[END] Copying vendor/bin/yaml-lint
+Shortcut: copied /app_sync/vendor/symfony/yaml/LICENSE from local file /app_sync/vendor/symfony/translation/LICENSE
+[END] Updating file vendor/composer/installed.json
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/src/core/components/system-wrapper.jsx from local file /app_sync/vendor/sebastian/diff/tests/fixtures/UnifiedDiffAssertTraitIntegrationTest/1_b.txt
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/flavors/swagger-ui-react/dist/.npmrc from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/swagger-ui-dist-package/.npmrc
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/test/e2e-selenium/scenarios/operations/user.js from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/test/e2e-selenium/scenarios/models.js
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/test/e2e-selenium/scenarios/models.js from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/test/e2e-selenium/scenarios/informationContainer.js
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/test/e2e-selenium/scenarios/operations/store.js from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/test/e2e-selenium/scenarios/operations/pet.js
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/test/e2e-selenium/scenarios/bugs/4485.js from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/test/e2e-selenium/scenarios/bugs/4445.js
+Shortcut: copied /app_sync/vendor/swagger-api/swagger-ui/test/e2e-selenium/scenarios/bugs/4445.js from local file /app_sync/vendor/.unison.swagger-api.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/swagger-ui/test/e2e-selenium/scenarios/bugs/4409.js
+[END] Copying vendor/symfony/yaml
+[END] Copying vendor/swagger-api
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:00.56 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:00  (5 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:02.24 on 09 Sep 2020
+[BGN] Updating file composer.lock from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/darkaonline from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying vendor/zircote from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file composer.lock
+Shortcut: copied /app_sync/vendor/darkaonline/l5-swagger/resources/views/.gitkeep from local file /app_sync/vendor/swagger-api/swagger-ui/src/core/components/system-wrapper.jsx
+Shortcut: copied /app_sync/vendor/zircote/swagger-php/docs/.vuepress/public/1.x/static/pixel from local file /app_sync/vendor/.unison.darkaonline.02c5d5ef208c6b1f9bf963f1f6828871.unison.tmp/l5-swagger/resources/views/.gitkeep
+[END] Copying vendor/darkaonline
+[END] Copying vendor/zircote
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:02.48 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:02  (3 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:04.58 on 09 Sep 2020
+[BGN] Updating file bootstrap/cache/packages.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file bootstrap/cache/services.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_classmap.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_files.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_psr4.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Updating file vendor/composer/autoload_static.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file bootstrap/cache/packages.php
+[END] Updating file bootstrap/cache/services.php
+[END] Updating file vendor/composer/autoload_classmap.php
+[END] Updating file vendor/composer/autoload_files.php
+[END] Updating file vendor/composer/autoload_psr4.php
+[END] Updating file vendor/composer/autoload_static.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:04.62 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:04  (6 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:06.67 on 09 Sep 2020
+[BGN] Updating file _ide_helper.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file _ide_helper.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:06.69 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:06  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:07.73 on 09 Sep 2020
+[BGN] Updating file .phpstorm.meta.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .phpstorm.meta.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:07.74 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:07  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:08.81 on 09 Sep 2020
+[BGN] Copying config/l5-swagger.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[BGN] Copying resources/views/vendor from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+Shortcut: copied /app_sync/config/l5-swagger.php from local file /app_sync/vendor/darkaonline/l5-swagger/config/l5-swagger.php
+[END] Copying config/l5-swagger.php
+Shortcut: copied /app_sync/resources/views/vendor/l5-swagger/.gitkeep from local file /app_sync/vendor/zircote/swagger-php/docs/.vuepress/public/1.x/static/pixel
+Shortcut: copied /app_sync/resources/views/vendor/l5-swagger/index.blade.php from local file /app_sync/vendor/darkaonline/l5-swagger/resources/views/index.blade.php
+[END] Copying resources/views/vendor
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:08.82 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:08  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:43.59 on 09 Sep 2020
+[BGN] Updating file config/l5-swagger.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file config/l5-swagger.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:43.61 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:43  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:35:47.09 on 09 Sep 2020
+[BGN] Updating file config/l5-swagger.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file config/l5-swagger.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:35:47.11 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:35:47  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:36:40.27 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:36:40.27 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:36:40  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:37:21.05 on 09 Sep 2020
+[BGN] Copying config/jwt.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+Shortcut: copied /app_sync/config/jwt.php from local file /app_sync/vendor/tymon/jwt-auth/config/config.php
+[END] Copying config/jwt.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:37:21.06 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:37:21  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:38:01.60 on 09 Sep 2020
+[BGN] Updating file config/jwt.php from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file config/jwt.php
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:38:01.61 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:38:01  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:38:27.98 on 09 Sep 2020
+[BGN] Updating file .env from /Users/thanatos/Web/thanatos/thanatos/laravel-admin-tools to //e8f376b6c824//app_sync
+[END] Updating file .env
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:38:27.99 on 09 Sep 2020
+Saving synchronizer state
+Synchronization complete at 18:38:28  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:42:00.53 on 09 Sep 2020
+[BGN] Deleting app/Admin from //e8f376b6c824//app_sync
+Failed: Error in deleting:
+Permission denied [unlink(/app_sync/app/Admin/bootstrap.php)]
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:42:00.53 on 09 Sep 2020
+Saving synchronizer state
+Synchronization incomplete at 18:42:00  (0 items transferred, 0 skipped, 1 failed)
+  failed: app/Admin
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.

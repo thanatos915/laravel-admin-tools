@@ -1,0 +1,16 @@
+version: "3"
+
+volumes:
+  sync_folder_laravel_admin_tools:
+    external: true
+
+services:
+  nginx:
+    volumes:
+      - "sync_folder_laravel_admin_tools:/usr/share/nginx/html"
+
+
+  php:
+    volumes:
+      - "sync_folder_laravel_admin_tools:/var/www/html"
+

@@ -1,0 +1,9 @@
+version: '2'
+
+syncs:
+  sync_folder_laravel_admin_tools:
+    notify_terminal: true
+    src: './'
+    sync_userid: '82'
+    sync_strategy: 'unison'
+    sync_excludes: ['.docker-sync','.git', '.idea']
