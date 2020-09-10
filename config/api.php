@@ -154,7 +154,8 @@ return [
     */
 
     'middleware' => [
-
+        \App\Http\Middleware\FilterMiddleware::class,
+        \Fruitcake\Cors\HandleCors::class,
     ],
 
     /*
@@ -168,7 +169,7 @@ return [
     */
 
     'auth' => [
-
+        'jwt' => 'Dingo\Api\Auth\Provider\JWT',
     ],
 
     /*
