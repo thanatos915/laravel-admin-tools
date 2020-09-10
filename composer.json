@@ -17,6 +17,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.24",
         "laravel/tinker": "^2.0",
+        "orangehill/iseed": "^2.6",
         "overtrue/laravel-wechat": "^5.0",
         "tymon/jwt-auth": "^1.0"
     },

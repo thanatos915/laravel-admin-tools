@@ -7,6 +7,7 @@
 - [dcat Admin 比较不错的后台管理模块](http://www.dcatadmin.com).
 - [laravel-wechat 微信开发相关工具包](https://github.com/overtrue/laravel-wechat).
 - [jwt-auth 用户授权必备jwt token](https://github.com/tymondesigns/jwt-auth).
+- [laravel iseed 数据库逆向迁移工具](https://github.com/orangehill/iseed).
 
 
 ## 安装使用
@@ -21,6 +22,13 @@ php artisan jwt:secret
 # 配置数据库
 # 安装后台
 php artisan admin:install
+```
+
+## 数据迁移
+由于 admin 配置的权限相关都再表中无法迁移，本地开发后转移线上困难。使用 iseed 逆向迁移数据库
+```shell script
+php artisan iseed admin_menu,admin_permission_menu,admin_permissions,admin_role_menu,admin_role_permis
+sions,admin_role_users,admin_users --force
 ```
 
 ## Docker启动
